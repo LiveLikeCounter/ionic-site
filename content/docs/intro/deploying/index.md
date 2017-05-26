@@ -25,7 +25,7 @@ Deploying to an Android device is a fairly straightforward process. If you have 
 
 ### Running Your App
 
-To run your app, all you have to do is enable USB debugging and Developer Mode on your Android device, then run `ionic run android --device` from the command line.
+To run your app, all you have to do is enable USB debugging and Developer Mode on your Android device, then run `ionic cordova run android --device` from the command line.
 
 This will produce a debug build of your app, both in terms of Android and Ionic's code
 
